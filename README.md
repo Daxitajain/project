@@ -1,2 +1,2 @@
-# IPP
+# project
 Student complaint registration
